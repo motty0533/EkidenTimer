@@ -1,4 +1,4 @@
-# mottypage
+# EkidenTimer
 
 ## Project setup
 ```
